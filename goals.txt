@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+name = 'Lyric Smith'
+trinityID = '0755633'
+<<<<<<< HEAD
+date = '2015-08-31'
+goal1 = 'be present for every class'
+goal2 = 'receive at least a B in the course'
+goal3 = 'gain a greater understanding of analytics'
+goal1Value = 0.3
+goal2Value = 0.1
+goal3Value = 0.45
+=======
+
